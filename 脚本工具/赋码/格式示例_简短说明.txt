@@ -1,6 +1,0 @@
-字-码对应文件格式：
-character{tab}code
-词表文件格式（同白奕词表）：
-text{tab}weight
-输出格式：
-text{tab}code{tab}weight
